@@ -16,7 +16,7 @@ duckdb-engine = "^0.6.9"
 jupysql = "^0.6.3"
 numba = "^0.56.4"
 dvc = "^2.46.0"
-mlflow = "^2.2.1"
+mlflow = "^2.3.1"
 
 
 [build-system]
