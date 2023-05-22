@@ -39,8 +39,8 @@ lib/
 
 
 # local caching of intermediate data or analysis artecfacts will not be version controlled
-_data/
-_local_only/
+data/
+local_only/
 
 # dont commit python compiled files or ipython auto saves
 __pycache__/
@@ -49,3 +49,5 @@ __pycache__/
 .idea
 *.pyc
 .pytest_cache
+*.duckdb
+*.wal
